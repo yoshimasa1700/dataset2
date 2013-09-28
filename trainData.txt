@@ -1,0 +1,16 @@
+7
+lint_roller/lint_roller_3
+spray/spray_1
+spray/spray_2
+spray/spray_3
+trash_box/trash_box_1
+trash_box/trash_box_2
+trash_box/trash_box_3
+watering_pot/watering_pot_1
+watering_pot/watering_pot_2
+watering_pot/watering_pot_3
+ball/ball_1
+ball/ball_2
+ball/ball_3
+lint_roller/lint_roller_1
+lint_roller/lint_roller_2
